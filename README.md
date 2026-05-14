@@ -25,8 +25,8 @@ Built with **C# and Windows Forms** (.NET 8). The whole project is a few files l
 You need **.NET 8 SDK** on Windows.
 
 ```bash
-git clone https://github.com/Gonulaldek/InternshipApplicationTracker
-cd InternshipApplicationTracker
+git clone https://github.com/Gonulaldek/internship-application-tracker.git
+cd internship-application-tracker
 dotnet run
 ```
 
